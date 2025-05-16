@@ -1,1 +1,2 @@
 # Email-Automachine
+Email Automation Project is a Python-based system designed to send pre-defined emails automatically based on triggers like time schedules, user actions, or external events. It uses smtplib for sending emails, schedule for timed automation, Tkinter for GUI interaction, and Flask for webhook-based event triggers. The project simplifies routine email tasks like reminders, alerts, or notifications. It supports multiple recipients and can be easily customized for various use cases.
